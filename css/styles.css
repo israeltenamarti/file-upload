@@ -177,7 +177,7 @@ section .details span{
 /* UPLOADED AREA */
 .uploaded-area{
 	max-height: 230px;
-	overflow-y: scroll;
+    overflow: scroll;
 }
 
 .uploaded-area.onprogress{
